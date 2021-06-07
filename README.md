@@ -1,5 +1,5 @@
 # Pathfinding-Visualizer
-An app built with Qt  to visualize Dikstra's Algorithm.
+An app built with Qt  to visualize Dijkstra's Algorithm.
 
 You can use this app to understand how search algorithms work. I'm gonna add more algorithms soon.
 
