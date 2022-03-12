@@ -7,10 +7,10 @@ You can slide your mouse clicking to mark boxes on the table such that the path 
 
 You can move the start and the finish with drag and drop very easy.
 
-![](images/moveStartFinsih.gif)
+![](src/images/moveStartFinsih.gif)
 
 You can reset the board to clear the walls and put start and finish to initial positions.
 
 I try to fix some bugs right now which are related to clicking and changing the colour of a wall.
 
-![](images/paintBoxes.gif)
+![](src/images/paintBoxes.gif)
