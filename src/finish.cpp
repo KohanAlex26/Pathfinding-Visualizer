@@ -6,5 +6,5 @@ finish::finish(QGraphicsItem *parent):piece(parent)
 }
 void finish::setImage()
 {
-    setPixmap(QPixmap(":/img/images/horse.png").scaled(30,30,Qt::KeepAspectRatio));
+    setPixmap(QPixmap(":/img/images/end.png").scaled(30,30,Qt::KeepAspectRatio));
 }

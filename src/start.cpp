@@ -6,5 +6,5 @@ start::start(QGraphicsItem *parent):piece(parent)
 }
 void start::setImage()
 {
-    setPixmap(QPixmap(":/img/images/bishop.png").scaled(30,30,Qt::KeepAspectRatio));
+    setPixmap(QPixmap(":/img/images/start.png").scaled(30,30,Qt::KeepAspectRatio));
 }
