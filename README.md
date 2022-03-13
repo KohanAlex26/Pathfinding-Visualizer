@@ -7,7 +7,7 @@ You can slide your mouse clicking to mark boxes on the table such that the path 
 
 You can move the start and the finish with drag and drop very easy.
 
-![](src/images/moveStartFinsih.gif)
+![](src/images/moveStartFinish.gif)
 
 You can reset the board to clear the walls and put start and finish to initial positions.
 
